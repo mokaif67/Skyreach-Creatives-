@@ -242,6 +242,13 @@ footer {
   font-size: 14px;
   opacity: 0.85;
 }
+.form-note {
+  margin-top: 14px;
+  font-size: 14px;
+  color: #c7d2fe;
+  opacity: 0.9;
+}
+
 
 /* =====================
    WHATSAPP BUTTON
@@ -263,6 +270,12 @@ footer {
   box-shadow: 0 15px 35px rgba(0,0,0,0.6);
   animation: glowPulse 2.5s infinite;
 }
+.founder {
+  font-size: 13px;
+  color: #94a3b8;
+  letter-spacing: 0.5px;
+}
+
 
 /* =====================
    DESKTOP LAYOUT
@@ -272,3 +285,4 @@ footer {
     grid-template-columns: repeat(3, 1fr);
   }
 }
+
